@@ -39,6 +39,13 @@ namespace Utah_Resort_Watch
                 //RV.Left = this.Left;
                 this.Hide();
                 //RV.ShowDialog();
+
+                //testing
+                DataAccess db = new DataAccess();
+                string username = "indigowd";
+                string query = $"SELECT user_name FROM People";
+                int returnVal = 0;
+                db.ExecuteSQLStatement(query, ref returnVal);
             }
             catch (Exception ex)
             {

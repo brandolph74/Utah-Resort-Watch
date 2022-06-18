@@ -21,3 +21,12 @@ C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\obj\Debug\net6
 C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\obj\Debug\net6.0-windows\ref\Utah Resort Watch.dll
 C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\obj\Debug\net6.0-windows\ResortViewer.g.cs
 C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\obj\Debug\net6.0-windows\ResortViewer.baml
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\obj\Debug\net6.0-windows\Utah Resort Watch.csproj.CopyComplete
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
