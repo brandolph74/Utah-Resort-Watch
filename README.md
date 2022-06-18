@@ -1,2 +1,2 @@
 # Utah-Resort-Watch
- track real resort conditions via user submissions
+Native windows application that allows users to submit their perspectives on the conditions of local ski resorts here in Utah. Goal is to let users write up a short report on the conditions of the resort on a given day and up to 3 pictures. Devoted purely to mountain conditions, not how well said person got along with the lift attendants or employees. Focus is on Ski/Snowboard/Mountain biking.
