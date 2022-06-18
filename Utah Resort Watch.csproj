@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Utah_Resort_Watch</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="powder mountain.png" />
+    <None Remove="snowbasin.png" />
+    <None Remove="utah-ski-resorts-park-city.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="powder mountain.png" />
+    <Resource Include="snowbasin.png" />
+    <Resource Include="utah-ski-resorts-park-city.jpg" />
+  </ItemGroup>
+
+</Project>

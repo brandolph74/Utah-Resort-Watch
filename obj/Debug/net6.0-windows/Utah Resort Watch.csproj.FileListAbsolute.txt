@@ -1,0 +1,23 @@
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\bin\Debug\net6.0-windows\Utah Resort Watch.exe
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\bin\Debug\net6.0-windows\Utah Resort Watch.deps.json
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\bin\Debug\net6.0-windows\Utah Resort Watch.runtimeconfig.json
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\bin\Debug\net6.0-windows\Utah Resort Watch.dll
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\bin\Debug\net6.0-windows\Utah Resort Watch.pdb
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\obj\Debug\net6.0-windows\Utah Resort Watch.csproj.AssemblyReference.cache
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\obj\Debug\net6.0-windows\Utah Resort Watch_MarkupCompile.cache
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\obj\Debug\net6.0-windows\Utah Resort Watch_MarkupCompile.lref
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\obj\Debug\net6.0-windows\Utah Resort Watch.g.resources
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\obj\Debug\net6.0-windows\Utah Resort Watch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\obj\Debug\net6.0-windows\Utah Resort Watch.AssemblyInfoInputs.cache
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\obj\Debug\net6.0-windows\Utah Resort Watch.AssemblyInfo.cs
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\obj\Debug\net6.0-windows\Utah Resort Watch.csproj.CoreCompileInputs.cache
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\obj\Debug\net6.0-windows\Utah Resort Watch.dll
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\obj\Debug\net6.0-windows\refint\Utah Resort Watch.dll
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\obj\Debug\net6.0-windows\Utah Resort Watch.pdb
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\obj\Debug\net6.0-windows\Utah Resort Watch.genruntimeconfig.cache
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\obj\Debug\net6.0-windows\ref\Utah Resort Watch.dll
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\obj\Debug\net6.0-windows\ResortViewer.g.cs
+C:\Users\Brenton\source\repos\Utah Resort Watch\Utah Resort Watch\obj\Debug\net6.0-windows\ResortViewer.baml

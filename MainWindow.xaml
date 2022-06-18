@@ -1,0 +1,39 @@
+﻿<Window x:Class="Utah_Resort_Watch.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Utah_Resort_Watch"
+        mc:Ignorable="d"
+        Title="Resort Watch" Height="854" Width="480">
+    <Window.Resources>
+
+        <Style x:Key = "labelStyle" TargetType="Label">
+            <Setter Property="FontFamily" Value="MV Boli" />
+            <Setter Property="FontSize" Value="36" />
+        </Style>
+
+    </Window.Resources>
+    <Viewbox Margin="0,0,0,-1">
+        <Grid Width="480" Height="835">
+            <Image  Margin="-1,-1,1,732" Source="/utah-ski-resorts-park-city.jpg" Stretch="UniformToFill"/>
+            <Label x:Name="homeLabel" Content="Utah Resort Watch" HorizontalAlignment="Center" Margin="0,121,0,0" VerticalAlignment="Top" FontFamily="MV Boli" FontSize="36" FontWeight="Bold"/>
+            <Label x:Name="selectLabel" Content="Select Resort" HorizontalAlignment="Center" Margin="0,194,0,0" VerticalAlignment="Top" Style="{StaticResource labelStyle}" FontFamily="Arial Black" FontSize="18" Height="34" Width="320" HorizontalContentAlignment="Center" FontWeight="Normal"/>
+            <Rectangle  Margin="19,233,21,25" Stroke="Black">
+            </Rectangle>
+            <Button x:Name="powderButton_Copy" Content="" Margin="80,263,271,443" Click="powderButton_Copy_Click">
+                <Button.Background>
+                    <ImageBrush ImageSource="/powder mountain.png" Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name="Snowbasin" Content="" Margin="271,263,80,443" Click="powderButton_Copy_Click">
+                <Button.Background>
+                    <ImageBrush ImageSource="/snowbasin.png" Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+
+
+        </Grid>
+
+    </Viewbox>
+</Window>
