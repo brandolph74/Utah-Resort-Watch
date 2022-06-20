@@ -21,7 +21,7 @@
             <Label x:Name="selectLabel" Content="Select Resort" HorizontalAlignment="Center" Margin="0,194,0,0" VerticalAlignment="Top" Style="{StaticResource labelStyle}" FontFamily="Arial Black" FontSize="18" Height="34" Width="320" HorizontalContentAlignment="Center" FontWeight="Normal"/>
             <Rectangle  Margin="19,233,21,25" Stroke="Black">
             </Rectangle>
-            <Button x:Name="powderButton_Copy" Content="" Margin="80,263,271,443" Click="powderButton_Copy_Click">
+            <Button x:Name="Powder_Mountain" Content="" Margin="80,263,271,443" Click="powderButton_Copy_Click">
                 <Button.Background>
                     <ImageBrush ImageSource="/powder mountain.png" Stretch="Uniform"/>
                 </Button.Background>

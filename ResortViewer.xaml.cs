@@ -19,9 +19,13 @@ namespace Utah_Resort_Watch
     /// </summary>
     public partial class ResortViewer : Window
     {
+
+        public static DataGrid resortTable;
+
         public ResortViewer()
         {
             InitializeComponent();
+            resortTable = resortList;  //initialize our list tool
         }
 
         /// <summary>

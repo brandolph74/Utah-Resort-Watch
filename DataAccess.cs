@@ -21,6 +21,19 @@ namespace Utah_Resort_Watch
         private string sConnectionString;
 
         /// <summary>
+        /// get the reports of the resorts.
+        /// </summary>
+        public DataSet GetReports(string resortName)
+        {
+            DataSet ds = new DataSet();
+            string query = $"SELECT report, date_added, user_name, season, resort FROM Reports WHERE resort = '{resortName}'";
+            int returnVal = 0;
+            ds = ExecuteSQLStatement(query, ref returnVal);
+            return ds;
+
+        }
+
+        /// <summary>
         /// Constructor that sets the connection string to the database
         /// </summary>
 		public DataAccess()

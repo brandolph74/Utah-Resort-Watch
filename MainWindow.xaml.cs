@@ -22,10 +22,13 @@ namespace Utah_Resort_Watch
     {
         ResortViewer RV;
         public static string selectedResort;
+        BusinessLayer business = new BusinessLayer();
+
         public MainWindow()
         {
             InitializeComponent();
             RV = new ResortViewer();  //initialize the new window
+            
         }
         
         /// <summary>
@@ -41,6 +44,11 @@ namespace Utah_Resort_Watch
                 selectedResort = button.Name.ToString();  //save the contents to the static variable
                 RV.Top = this.Top;
                 RV.Left = this.Left;
+
+                selectedResort = button.Name.ToString();
+
+                business.getReports(selectedResort);
+
                 this.Hide();
                 RV.ShowDialog();
                 this.Show();
